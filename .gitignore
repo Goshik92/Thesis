@@ -1,0 +1,8 @@
+### TeXlipse ###
+.settings/
+*.synctex.gz
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib

@@ -1,0 +1,29 @@
+\newcommand{\dands}{\foreignlanguage{english}{Delay-and-Sum}}
+\newcommand{\micname}{MP45DT02}
+\newcommand{\boardname}{Terasic DE2-115}
+
+\input{Preamble}
+
+\begin{document}
+
+\input{TableOfContents}
+
+\input{chapters/Introduction}
+\input{chapters/Theory}
+\input{chapters/Technologies}
+\input{chapters/Prototype}
+\input{chapters/Economy}
+\input{chapters/OSH}
+\input{chapters/Closing}
+
+\input{References}
+
+% Зачем: Задает стиль библиографии
+% Почему: Пункт 2.8.6 Требований по оформлению пояснительной записки.
+\bibliographystyle{styles/ugost2008}
+
+% Зачем: Печать списка литературы. База данных литературы - файл Bibliography.bib
+%\nocite{*}
+\bibliography{Bibliography}
+
+\end{document}
