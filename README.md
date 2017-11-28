@@ -1,6 +1,9 @@
 # Описание
 Дипломная работа специалиста за 2015 год на тему "Акустическая система мониторинга на основе пространственной фильтрации звуковых сигналов". За основу преамбулы был взят [этот](https://github.com/mstyura/bsuir-diploma-latex) проект. Работа выполнена с использованием системы вёрски LaTeX (использовался дистрибутив [MiKTeX](http://miktex.org/) совместно с [TeXlipse](http://texlipse.sourceforge.net/)).
 
+# Демонстрация работы
+[![Acoustic camera prototype demo video](https://img.youtube.com/vi/_5sYPQj3X98/0.jpg)](https://www.youtube.com/watch?v=_5sYPQj3X98)
+
 # Содержание
 Дипломная работа состоит из следующих разделов:</br>
 
